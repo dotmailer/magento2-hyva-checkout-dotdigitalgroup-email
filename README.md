@@ -1,6 +1,6 @@
 # magento2-hyva-checkout-dotdigitalgroup-email
 Hyvä Checkout Compatibility module for Dotdigitalgroup_Email.
- 
+
 ## Installation
 
 ### Via packagist.com
